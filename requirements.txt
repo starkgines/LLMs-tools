@@ -1,0 +1,11 @@
+langchain 
+langchain-community 
+langchain-openai  
+pypdf 
+pandas 
+streamlit 
+python-dotenv
+pydantic
+numpy
+lxml
+feedparser
